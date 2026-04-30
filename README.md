@@ -53,13 +53,6 @@ Build a lightweight monitoring tool that:
 ### Postman — Get Refunds
 <img width="958" height="478" alt="image" src="https://github.com/user-attachments/assets/19063ce2-78e8-4b14-9b1a-6154115b1768" />
 
-### SQL — Transaction Success Rate
-<img width="958" height="468" alt="image" src="https://github.com/user-attachments/assets/7e4ac4ec-7426-4269-afe8-d1acb03b6741" />
-
-### SQL — Refund Analysis
-<img width="956" height="461" alt="image" src="https://github.com/user-attachments/assets/26206860-5288-4b65-9d1e-0094c807f75c" />
-
-
 ### Step 2 — Loaded Data into SQL
 - Created a SQLite database with two tables: `transactions` and `refunds`
 - Inserted real data returned from the Stripe API calls
