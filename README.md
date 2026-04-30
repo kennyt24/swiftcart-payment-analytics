@@ -45,27 +45,20 @@ Build a lightweight monitoring tool that:
 ## Screenshots
 
 ### Postman — Get Charges (Test Results)
-![Get Charges](paste-screenshot-here)
+<img width="952" height="476" alt="image" src="https://github.com/user-attachments/assets/0e9f6211-30e2-412b-a75b-6d5d2443e0d0" />
 
-### Postman — Get Charges (Test Results)
+### Postman — Get Charges 
 <img width="951" height="475" alt="image" src="https://github.com/user-attachments/assets/a96b7a1a-d1a1-4117-9805-270a772e0be4" />
 
-)
-
 ### Postman — Get Refunds
-![Get Refunds](paste-screenshot-here)
-
-### Postman — Get Disputes
-![Get Disputes](paste-screenshot-here)
+<img width="958" height="478" alt="image" src="https://github.com/user-attachments/assets/19063ce2-78e8-4b14-9b1a-6154115b1768" />
 
 ### SQL — Transaction Success Rate
-![Query 1](paste-screenshot-here)
-
-### SQL — Revenue by Currency
-![Query 2](paste-screenshot-here)
+<img width="958" height="468" alt="image" src="https://github.com/user-attachments/assets/7e4ac4ec-7426-4269-afe8-d1acb03b6741" />
 
 ### SQL — Refund Analysis
-![Query 3](paste-screenshot-here)
+<img width="956" height="461" alt="image" src="https://github.com/user-attachments/assets/26206860-5288-4b65-9d1e-0094c807f75c" />
+
 
 ### Step 2 — Loaded Data into SQL
 - Created a SQLite database with two tables: `transactions` and `refunds`
