@@ -1,7 +1,7 @@
 # SwiftCart Payment Analytics
 
 > **Context:** This project was built following a conversation with 
-> [Shammi Madhvani](https://www.linkedin.com/in/ACoAABmA20YBo1hj9_DuaeKhcELgnJDkCn1OfRk) 
+> [Shammi Madhvani] 
 > at Stripe regarding my interest in the Technical Account Manager role. 
 > It demonstrates my ability to work with REST APIs using Postman and 
 > analyse data using SQL to solve real business problems.
