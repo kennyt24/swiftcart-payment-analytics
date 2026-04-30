@@ -59,8 +59,13 @@ Build a lightweight monitoring tool that:
 
 ### Step 3 — Wrote Analytics Queries
 - **Query 1:** Transaction success rate using `GROUP BY` and window functions
+- <img width="957" height="476" alt="image" src="https://github.com/user-attachments/assets/a063c11a-b15b-4cf9-a6b9-7cb7d361b9d5" />
+
 - **Query 2:** Revenue by currency using `SUM` and `GROUP BY`
+- <img width="956" height="476" alt="image" src="https://github.com/user-attachments/assets/6819fbdd-9e28-4aae-8bcc-ae76a6236fd6" />
+
 - **Query 3:** Refund analysis using a `LEFT JOIN` across both tables
+<img width="952" height="473" alt="image" src="https://github.com/user-attachments/assets/9e265101-8d7b-4cc1-8c37-2af4c783312e" />
 
 ---
 
