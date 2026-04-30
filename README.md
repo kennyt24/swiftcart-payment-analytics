@@ -43,6 +43,8 @@ Build a lightweight monitoring tool that:
 - Added automated test scripts to the charges request to flag failed payments
 - Chained requests using environment variables to store charge IDs
 ## Screenshots
+##Stripe Developer Sandbox
+<img width="605" height="305" alt="image" src="https://github.com/user-attachments/assets/74c48137-d54f-45c6-b81c-1c29f892619e" />
 
 ### Postman — Get Charges (Test Results)
 <img width="952" height="476" alt="image" src="https://github.com/user-attachments/assets/0e9f6211-30e2-412b-a75b-6d5d2443e0d0" />
