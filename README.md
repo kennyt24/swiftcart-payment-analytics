@@ -42,6 +42,29 @@ Build a lightweight monitoring tool that:
   - `GET /v1/disputes` — any open disputes
 - Added automated test scripts to the charges request to flag failed payments
 - Chained requests using environment variables to store charge IDs
+## Screenshots
+
+### Postman — Get Charges (Test Results)
+![Get Charges](paste-screenshot-here)
+
+### Postman — Get Charges (Test Results)
+![Get Charges](<img width="951" height="475" alt="image" src="https://github.com/user-attachments/assets/b87d13f1-2288-4a32-bbd4-2a2c01c43b0e" />
+)
+
+### Postman — Get Refunds
+![Get Refunds](paste-screenshot-here)
+
+### Postman — Get Disputes
+![Get Disputes](paste-screenshot-here)
+
+### SQL — Transaction Success Rate
+![Query 1](paste-screenshot-here)
+
+### SQL — Revenue by Currency
+![Query 2](paste-screenshot-here)
+
+### SQL — Refund Analysis
+![Query 3](paste-screenshot-here)
 
 ### Step 2 — Loaded Data into SQL
 - Created a SQLite database with two tables: `transactions` and `refunds`
