@@ -48,7 +48,8 @@ Build a lightweight monitoring tool that:
 ![Get Charges](paste-screenshot-here)
 
 ### Postman — Get Charges (Test Results)
-![Get Charges](<img width="951" height="475" alt="image" src="https://github.com/user-attachments/assets/b87d13f1-2288-4a32-bbd4-2a2c01c43b0e" />
+<img width="951" height="475" alt="image" src="https://github.com/user-attachments/assets/a96b7a1a-d1a1-4117-9805-270a772e0be4" />
+
 )
 
 ### Postman — Get Refunds
