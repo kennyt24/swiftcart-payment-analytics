@@ -14,7 +14,7 @@ SwiftCart is an online retailer processing payments through Stripe. As their
 transaction volume grew, they had no visibility into the health of their payments. 
 Key questions they couldn't answer:
 
-- Which transactions are failing — and how often?
+- Which transactions are failing and how often?
 - What is our refund rate, and is it within acceptable limits?
 - How much revenue are we actually processing?
 
