@@ -1,4 +1,4 @@
-# swiftcart-payment-analytics# SwiftCart Payment Analytics
+# swiftcart-payment-analytics
 
 A transaction monitoring tool built for SwiftCart, an online retailer using Stripe to process payments.
 
